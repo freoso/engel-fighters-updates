@@ -1,0 +1,15 @@
+{
+    "versionCode":  1000,
+    "versionName":  "0.10.0-beta",
+    "apkUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/v0.10.0-beta/EngelFighters-0.10.0-beta.apk",
+    "sha256":  "82c6e248c53b1c7cd0a9e8e4e62866fe530670a2ac5c742474198c4f2bf9db5a",
+    "force":  false,
+    "changelog":  [
+                      "ENGEL FIGHTERS Beta 0.10.0",
+                      "- Primera beta con actualizaciones integradas.",
+                      "- Gameplay local PC / Android.",
+                      "- Joystick arcade tactil de 8 direcciones.",
+                      "- Soporte para mandos fisicos.",
+                      "- Ajustes de carrera, controles y personajes."
+                  ]
+}
