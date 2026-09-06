@@ -1,14 +1,15 @@
 {
-    "versionCode":  1001,
-    "versionName":  "0.10.1",
-    "apkUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/v0.10.1/EngelFighters-0.10.1.apk",
-    "sha256":  "7f3b98fafc5b9b6a52d9c30c8d963054bcf69466dbf8da65841f3a6066eca852",
+    "versionCode":  1002,
+    "versionName":  "0.10.2",
+    "apkUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/v0.10.2/EngelFighters-0.10.2.apk",
+    "sha256":  "74255016857770068c0458bad80dba1cb9e7cc5640e4ddc103b24633c867d106",
     "force":  false,
     "changelog":  [
-                      "ENGEL FIGHTERS 0.10.1",
-                      "- Doble toque hacia adelante: correr hacia el rival.",
-                      "- Doble toque hacia atrÃ¡s: correr para alejarse del rival.",
-                      "- Mantener atrÃ¡s una sola vez: retroceder mientras te protegÃ©s.",
-                      "- La carrera hacia atrÃ¡s desactiva la guardia mientras dura la carrera."
+                      "ENGEL FIGHTERS 0.10.2",
+                      "- Corregido bucle del instalador de actualizaciones.",
+                      "- La app ya no vuelve a abrir \"Â¿Deseas actualizar esta aplicaciÃ³n?\" en cada inicio.",
+                      "- Si el APK pendiente ya estÃ¡ instalado, se limpia automÃ¡ticamente.",
+                      "- Si cancelÃ¡s una instalaciÃ³n, no queda atrapada en un bucle al volver al juego.",
+                      "- Se conserva correr hacia adelante/atrÃ¡s y retroceso con guardia de 0.10.1."
                   ]
 }
