@@ -1,15 +1,14 @@
 {
-    "versionCode":  1000,
-    "versionName":  "0.10.0-beta",
-    "apkUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/v0.10.0-beta/EngelFighters-0.10.0-beta.apk",
-    "sha256":  "82c6e248c53b1c7cd0a9e8e4e62866fe530670a2ac5c742474198c4f2bf9db5a",
+    "versionCode":  1001,
+    "versionName":  "0.10.1",
+    "apkUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/v0.10.1/EngelFighters-0.10.1.apk",
+    "sha256":  "7f3b98fafc5b9b6a52d9c30c8d963054bcf69466dbf8da65841f3a6066eca852",
     "force":  false,
     "changelog":  [
-                      "ENGEL FIGHTERS Beta 0.10.0",
-                      "- Primera beta con actualizaciones integradas.",
-                      "- Gameplay local PC / Android.",
-                      "- Joystick arcade tactil de 8 direcciones.",
-                      "- Soporte para mandos fisicos.",
-                      "- Ajustes de carrera, controles y personajes."
+                      "ENGEL FIGHTERS 0.10.1",
+                      "- Doble toque hacia adelante: correr hacia el rival.",
+                      "- Doble toque hacia atrÃ¡s: correr para alejarse del rival.",
+                      "- Mantener atrÃ¡s una sola vez: retroceder mientras te protegÃ©s.",
+                      "- La carrera hacia atrÃ¡s desactiva la guardia mientras dura la carrera."
                   ]
 }
