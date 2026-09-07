@@ -1,11 +1,11 @@
 {
-    "versionCode":  1034,
-    "versionName":  "0.11.7.10",
-    "apkUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/v0.11.7.10/EngelFighters-0.11.7.10.apk",
-    "sha256":  "b08bf941958b03cd376db39cd59db9ac36d8439873dacfcde3bdc8abaa4c1991",
+    "versionCode":  1035,
+    "versionName":  "0.11.7.11",
+    "apkUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/v0.11.7.11/EngelFighters-0.11.7.11.apk",
+    "sha256":  "5d6641a57c17fe261494b33688dab0bd385959d2b8ed1704cf3a57730fffb00a",
     "force":  false,
     "changelog":  [
-                      "ENGEL FIGHTERS 0.11.7.10",
+                      "ENGEL FIGHTERS 0.11.7.11",
                       "- Nueva version del juego."
                   ]
 }
