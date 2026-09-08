@@ -1,8 +1,8 @@
 {
-    "versionCode":  1054,
+    "versionCode":  1055,
     "versionName":  "0.11.7.30",
     "apkUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/v0.11.7.30/EngelFighters-0.11.7.30.apk",
-    "sha256":  "9c9533318e384d55577e1b732d2b903f510f44b46b08b859c456ae134f34de10",
+    "sha256":  "ba92ea1f6280570a44c3f71e49ff1e17a075ed2ba779c56da07969e58cd58993",
     "force":  false,
     "changelog":  [
                       "ENGEL FIGHTERS 0.11.7.30",
