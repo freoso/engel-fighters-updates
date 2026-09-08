@@ -1,11 +1,12 @@
 {
-    "versionCode":  1061,
-    "versionName":  "0.11.7.30",
-    "apkUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/v0.11.7.30/EngelFighters-0.11.7.30.apk",
-    "sha256":  "f87d0748f4eb251c8113dc047c5d256c6a828a222c0695f162de84678d6d8582",
+    "versionCode":  1062,
+    "versionName":  "0.11.7.31",
+    "apkUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/v0.11.7.31/EngelFighters-0.11.7.31.apk",
+    "sha256":  "293d5ba545e872f02f3cbfa4a762950d613ba06e1b51787baf9fbf182543ece5",
     "force":  false,
     "changelog":  [
-                      "ENGEL FIGHTERS 0.11.7.30",
-                      "- Nueva version del juego."
+                      "ENGEL FIGHTERS 0.11.7.31",
+                      "- Android: la duracion de los toques se mide con tiempo real, independiente de los fotogramas.",
+                      "- Android: se habilita el boton tactil Volver del menu principal."
                   ]
 }
