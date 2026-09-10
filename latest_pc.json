@@ -1,0 +1,12 @@
+{
+    "versionCode":  1087,
+    "versionName":  "0.11.7.31",
+    "setupUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/pc-v0.11.7.31-1087/ENGEL_FIGHTERS_SETUP_0.11.7.31_1087.exe",
+    "sha256":  "6421c57aeac43203a88a438538e7a499f904419d1ce8ac265a2745f5267e3d09",
+    "force":  false,
+    "changelog":  [
+                      "ENGEL FIGHTERS 0.11.7.31",
+                      "- Android: la duracion de los toques se mide con tiempo real, independiente de los fotogramas.",
+                      "- Android: se habilita el boton tactil Volver del menu principal."
+                  ]
+}
