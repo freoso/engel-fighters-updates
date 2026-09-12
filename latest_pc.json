@@ -1,8 +1,8 @@
 {
-    "versionCode":  1096,
+    "versionCode":  1104,
     "versionName":  "0.11.7.31",
-    "setupUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/pc-v0.11.7.31-1096/ENGEL_FIGHTERS_SETUP_0.11.7.31_1096.exe",
-    "sha256":  "845278cb3d28cbd03a838d4997e31c47dd2471305425fd9077c216bb8bc9aebe",
+    "setupUrl":  "https://github.com/freoso/engel-fighters-updates/releases/download/pc-v0.11.7.31-1104/ENGEL_FIGHTERS_SETUP_0.11.7.31_1104.exe",
+    "sha256":  "8e605d9c09fe1ac7442f85606be3bde7ee2168887366252cb77bd48e86899a42",
     "force":  false,
     "changelog":  [
                       "ENGEL FIGHTERS 0.11.7.31",
